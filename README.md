@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my GitHub
+
+- 🔭 I’m currently working on kaasislekker.nl
+- 🌱 I’m currently learning React.js
+
+- 📫 How to reach me:
+
+E-mail: [Aidan@middel.it](mailto:aidan@middel.it)
+Website: [AidanMiddel.nl](https://aidanmiddel.nl/)
 
 <!--
 **AidanMiddel/AidanMiddel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
