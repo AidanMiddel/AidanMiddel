@@ -5,7 +5,7 @@
 
 - 📫 How to reach me:
 
-E-mail: [Aidan@middel.it](mailto:aidan@middel.it)
+E-mail: [info@aidanmiddel.nl](mailto:info@aidanmiddel.nl)
 
 Website: [AidanMiddel.nl](https://aidanmiddel.nl/)
 
