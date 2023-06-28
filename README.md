@@ -1,7 +1,6 @@
 ### Hi there 👋 and welcome to my GitHub
 
-- 🔭 I’m currently working on kaasislekker.nl
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning PHP
 
 - 📫 How to reach me:
 
